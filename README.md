@@ -22,7 +22,6 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MoohammedAdell" alt="profile views" />
-  &nbsp;&nbsp;🌍 Egypt &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Front-End Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 JavaScript & React Fan
 </p>
 
 ---
@@ -55,10 +54,6 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 
 <a href="https://apple-tony.vercel.app/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoohammedAdell&repo=apple-tony&theme=dracula" />
-</a>
-
-<a href="https://api-books-wine.vercel.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoohammedAdell&repo=api-books-wine&theme=dracula" />
 </a>
 
 </div>
