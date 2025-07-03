@@ -42,7 +42,7 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png"></code>
 
-<br><br>
+<br>
 
 ---
 
@@ -64,13 +64,10 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoohammedAdell&repo=apple-tony&theme=dracula" />
 </a>
 
-<a href="https://api-books-wine.vercel.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoohammedAdell&repo=api-books-wine&theme=dracula" />
-</a>
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
