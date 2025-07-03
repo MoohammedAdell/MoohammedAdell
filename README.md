@@ -15,19 +15,23 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-adel-a9370330a/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-adel-a9370330a/)  
 - 🔗 GitHub: [MoohammedAdell](https://github.com/MoohammedAdell)
 
----
+<br><br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MoohammedAdell" alt="profile views" />
 </p>
 
+<br>
+
 ---
 
-**Languages and Tools:**
+### 🛠️ Languages and Tools
+
 <br>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
@@ -38,9 +42,13 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png"></code>
 
+<br><br>
+
 ---
 
 ### 🚀 Featured Projects
+
+<br>
 
 <div align="center">
 
@@ -56,12 +64,20 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoohammedAdell&repo=apple-tony&theme=dracula" />
 </a>
 
+<a href="https://api-books-wine.vercel.app/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoohammedAdell&repo=api-books-wine&theme=dracula" />
+</a>
+
 </div>
+
+<br><br>
 
 ---
 
 <details>
 <summary>📈 My GitHub Stats</summary>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoohammedAdell&show_icons=true&theme=gotham" />
@@ -69,10 +85,10 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 
 </details>
 
----
+<br><br>
 
 <div align="center">
 
-### ✨ Show some love by starring my repositories!
+### 🌟 Show some ❤️ by starring my repositories!
 
 </div>
