@@ -1,14 +1,37 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://github.com/MoohammedAdell" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/github.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-adel-a9370330a/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/to.ny.875453/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></a>
+  <!-- GitHub -->
+  <a href="https://github.com/MoohammedAdell" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Mostaql -->
+  <a href="https://mostaql.com/u/mohamedd_5" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="Mostaql">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-adel-a9370330a/" target="_blank">
+    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true" alt="LinkedIn">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/to.ny.875453/" target="_blank">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/hamoo_adel._" target="_blank">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
+  </a>&nbsp;&nbsp;&nbsp;
+<!--   mail -->
+  <a href="mailto:mohammedadell496@gmail.com" target="_blank">
+  <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email">
 </a>
 
 </p>
+
 
 <br>
 
@@ -26,27 +49,51 @@ Besides coding, I enjoy discovering cool UI animations and playing around with n
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MoohammedAdell" alt="profile views" />
+  <img src="https://img.shields.io/github/stars/MoohammedAdell?style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-REPLACE_WITH_NUMBER-blue?style=flat-square" alt="Public Repos" />
+  <img src="https://img.shields.io/github/last-commit/MoohammedAdell/landing-modern-page?style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/followers/MoohammedAdell?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/top/MoohammedAdell/landing-modern-page?style=flat-square" alt="Top Language" />
+</p>
+
+
+<br>
+
+
+
+### 🛠️ Languages and Tools
+
+
+<br>
+
+<p align="left">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwind" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://avatars.githubusercontent.com/u/53075263?s=200&v=4" alt="Framer Motion" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="Firebase" />
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" />
+  &nbsp;&nbsp;
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
 </p>
 
 <br>
 
----
-
-### 🛠️ Languages and Tools
-
-<br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/53075263?s=200&v=4" alt="Framer Motion"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png"></code>
-
-<br>
 
 ---
 
