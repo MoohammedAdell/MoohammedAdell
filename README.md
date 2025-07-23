@@ -22,7 +22,7 @@
 - 🧱 Core: HTML, CSS, JavaScript  
 - ⚛️ Frameworks: React.js, Next.js (Learning), Tailwind CSS, Framer Motion  
 - 🛠️ Tools: Git, GitHub, VS Code, Figma  
-- 🔁 State Management: useState, useEffect, Context API  
+- 🔁 State Management: useState, useEffect, Context API, Redux
 - 🎞️ Animation: Framer Motion, GSAP (Exploring)  
 
 ---
