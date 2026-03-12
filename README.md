@@ -30,7 +30,7 @@
 
 ### 🔗 Let’s Connect
 
-* 💬 [**LinkedIn**](https://www.linkedin.com/in/mohamed-adel-a9370330a/) <!-- Replace with actual -->
+* 💬 [**LinkedIn**](https://www.linkedin.com/in/mohamed-adel-fe/) <!-- Replace with actual -->
 * 📧 [**Email**](mailto:mohammdadell496@gmail.com)
 
 ---
